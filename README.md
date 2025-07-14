@@ -4,6 +4,13 @@ A simple React Native app to manage tasks with due dates. Users can add, complet
 
 ---
 
+## Project Structure
+
+- `index.tsx` — Main entry point of the app where the main task manager screen with all logic and UI.
+- `scripts/script.js` — Stylesheet for consistent styling across components.
+
+---
+
 ## Features
 
 - **Add Task**: Enter a brief description and optional due date (MM-DD-YYYY).
@@ -25,6 +32,7 @@ A simple React Native app to manage tasks with due dates. Users can add, complet
 ---
 
 ## Usage
+
 
 1. Clone the repository
 2. Install dependicies
